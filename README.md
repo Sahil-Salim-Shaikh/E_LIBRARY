@@ -8,7 +8,7 @@ members of library to whom books are issued, library staff and all.
 * This is very difficult to organize manually. Maintenance of all this
 information manually is a very complex task.
 
-### Design Layout 
+###
 
 
 ### Homescreen 
