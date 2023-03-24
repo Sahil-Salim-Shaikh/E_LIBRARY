@@ -22,7 +22,7 @@ information manually is a very complex task.
 ------------------------------------------
 
 ### User Accout informaton
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Account%20info.png?raw=true" >
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Account%20info.png?raw=true" width ="1012px" height ="1920px">
 
 ------------------------------------------
 
