@@ -12,5 +12,5 @@ information manually is a very complex task.
 
 
 ### Homescreen 
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Images%20of%20the%20Project/1.PNG?raw=true">
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Login.png?raw=true">
 
