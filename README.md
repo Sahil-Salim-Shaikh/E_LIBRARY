@@ -27,7 +27,9 @@ information manually is a very complex task.
 ------------------------------------------
 
 ### Get Books
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/get%20book.png?raw=true"> <img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/book%20info.png?raw=true">   
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/get%20book.png?raw=true">
+------------------------------------------
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/book%20info.png?raw=true">   
 
 ------------------------------------------
 
@@ -41,7 +43,7 @@ information manually is a very complex task.
 
 ------------------------------------------
 
-### Updated Amount In Users List
+### Manage books
 <img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Manage%20user.png?raw=true" >
 
 ------------------------------------------
