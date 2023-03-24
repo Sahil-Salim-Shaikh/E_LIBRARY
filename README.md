@@ -17,7 +17,7 @@ information manually is a very complex task.
 ------------------------------------------
 
 ### Users Registration 
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Reglistration.png?raw=trueg" width ="250px" height ="450px">
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Reglistration.png?raw=trueg" >
 
 ------------------------------------------
 
