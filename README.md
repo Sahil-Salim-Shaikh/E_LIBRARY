@@ -12,43 +12,43 @@ information manually is a very complex task.
 
 
 ### Homescreen 
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Login.png?raw=true">
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Login.png?raw=true">
 
 ------------------------------------------
 
 ### Users Registration 
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Reglistration.png?raw=trueg" >
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Reglistration.png?raw=true" >
 
 ------------------------------------------
 
 ### User Accout informaton
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Account%20info.png?raw=true" >
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Account%20info.png?raw=true" >
 
 ------------------------------------------
 
 ### Get Books
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/get%20book.png?raw=true">
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/get%20book.png?raw=true">
 
 
 ------------------------------------------
 
 ###
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/book%20info.png?raw=true">   
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/book%20info.png?raw=true">   
 
 ------------------------------------------
 
 ### Admin Portal
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Admin%20portal.png?raw=true" >
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Admin%20portal.png?raw=true" >
 
 ------------------------------------------
 
 ### Manage Books
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Manage%20book.png?raw=true" >
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Manage%20book.png?raw=true" >
 
 ------------------------------------------
 
-### Manage books
-<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_images/Manage%20user.png?raw=true" >
+### Manage Users
+<img src="https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Manage%20user.png?raw=true" >
 
 ------------------------------------------
 
