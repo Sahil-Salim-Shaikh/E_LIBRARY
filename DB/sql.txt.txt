@@ -1,0 +1,75 @@
+CREATE TABLE user(
+id int  NOT NULL AUTO_INCREMENT,
+name varchar (100) DEFAULT NULL,
+age varchar (100) DEFAULT NULL,
+email varchar (100) DEFAULT NULL,
+mobile varchar (100) DEFAULT NULL,
+password varchar (100) DEFAULT NULL,
+ PRIMARY KEY (id));
+
+
+CREATE TABLE Book(
+isbn int  NOT NULL AUTO_INCREMENT,
+book varchar (100) DEFAULT NULL,
+author varchar (100) DEFAULT NULL,
+availiable_books varchar (100) DEFAULT NULL,
+rating int (100) DEFAULT NULL,
+ PRIMARY KEY(isbn));
+
+CREATE TABLE issue_details(
+user_id int  NOT NULL AUTO_INCREMENT,
+book_isbn int  NOT NULL AUTO_INCREMENT,
+book_name varchar (100) DEFAULT NULL,
+author varchar (100) DEFAULT NULL,
+rating int (100) DEFAULT NULL,
+issue_date date DEFAULT NULL,
+return_date date DEFAULT NULL,
+
+ FOREIGN KEY (book_isbn) REFERENCES book (isbn),
+ FOREIGN KEY(user_id) REFERENCES  user(id));
+
+ALTER TABLE Book
+RENAME COLUMN  available_books TO availiable_books;
+
+ALTER TABLE Book
+MODIFY   book_id varchar  NOT NULL AUTO_INCREMENT;
+ALTER TABLE issue_details 
+RENAME COLUMN book_isbn TO isbn;
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+create database lib;
+
+use lib;
+CREATE TABLE user(
+id int  NOT NULL AUTO_INCREMENT,
+name varchar (100) DEFAULT NULL,
+age varchar (100) DEFAULT NULL,
+email varchar (100) DEFAULT NULL,
+mobile int (100) DEFAULT NULL,
+password varchar (100) DEFAULT NULL,
+ PRIMARY KEY (id));
+ CREATE TABLE Book(
+isbn int  NOT NULL AUTO_INCREMENT,
+book varchar (100) DEFAULT NULL,
+author varchar (100) DEFAULT NULL,
+availiable_books varchar (100) DEFAULT NULL,
+rating int (100) DEFAULT NULL,
+ PRIMARY KEY(isbn));
+
+ 
+CREATE TABLE issue_details(
+user_id int  NOT NULL,
+book_isbn int  NOT NULL ,
+book_name varchar (100) DEFAULT NULL,
+author varchar (100) DEFAULT NULL,
+rating int (100) DEFAULT NULL,
+issue_date  varchar(10) DEFAULT NULL,
+return_date varchar (10) DEFAULT NULL,
+FOREIGN KEY (book_isbn) REFERENCES book (isbn),
+ FOREIGN KEY(user_id) REFERENCES  user(id));
+
+ show tables;
